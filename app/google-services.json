@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730603514141",
+    "project_id": "watcher-5747c",
+    "storage_bucket": "watcher-5747c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730603514141:android:426c975bd1278798edd9f4",
+        "android_client_info": {
+          "package_name": "com.mbialowas.watcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730603514141-j667lvnodotau2khaag8rq15qh5m2apr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_xgxRxf5N6KMEVgH9WzKiWXJuWsHa9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730603514141-j667lvnodotau2khaag8rq15qh5m2apr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
